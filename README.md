@@ -1,5 +1,5 @@
 ### Hi there 👋
-#official Repository of S W KIM
+#Official Repository of S W KIM
 #### Department of Artificial Intelligence & Software (AI&SW) Student : Seongwon Kim 
 
 <!--
